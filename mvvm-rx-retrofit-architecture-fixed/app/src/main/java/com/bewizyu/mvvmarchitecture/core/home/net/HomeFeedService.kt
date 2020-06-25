@@ -2,10 +2,9 @@ package com.bewizyu.mvvmarchitecture.core.home.net
 
 import com.bewizyu.mvvmarchitecture.core.home.model.FeedItem
 import io.reactivex.Single
-import retrofit2.http.POST
+import retrofit2.http.GET
 
 interface HomeFeedService {
-    //TODO-7 : utiliser les annotation Retrofit pour executer la requete suivante : https://demo0635484.mockable.io/feeds
+    @GET("feeds")
     fun feeds(): Single<List<FeedItem>>
-
 }

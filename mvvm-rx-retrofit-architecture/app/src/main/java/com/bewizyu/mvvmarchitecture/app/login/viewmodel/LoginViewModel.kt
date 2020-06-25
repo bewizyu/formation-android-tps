@@ -22,7 +22,7 @@ class LoginViewModel: ViewModel() {
 
         // TODO-6 : adapter l'utilisation de authenticate() afin de prendre en consideration le type de retour Single
         // HINT :
-        // service.getUsers ()
+        // observale.getUsers ()
         //                .subscribeOn(Schedulers.io())
         //                .observeOn(AndroidSchedulers.mainThread())
         //                .subscribeWith(object : DisposableSingleObserver<User>(){
