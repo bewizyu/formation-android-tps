@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Day App [MVVM]</string>
+    <string name="welcome_title">Welcome on your Smart App</string>
+    <string name="unexpected_error">Une erreur est survenue, merci de réessayer !</string>
+    <string name="empty_result">Oups ! Aucune publication n\'est disponible pour le moment !</string>
+    <string name="loading">Chargement en cours ...</string>
+</resources>

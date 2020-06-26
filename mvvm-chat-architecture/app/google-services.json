@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "347424406350",
+    "firebase_url": "https://my-day-app.firebaseio.com",
+    "project_id": "my-day-app",
+    "storage_bucket": "my-day-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347424406350:android:e5c1992ed3fa5e6fc7fc1f",
+        "android_client_info": {
+          "package_name": "com.bewizyu.mvvmarchitecture.day"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347424406350-nc0g7ma8nlfkbk2s6uh9lofh77cd1u35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb1ia4vR2a8MUYEGrE4CS7nmv9RDKx10g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347424406350-nc0g7ma8nlfkbk2s6uh9lofh77cd1u35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
